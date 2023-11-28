@@ -1,8 +1,3 @@
-# EASY TRAIL
-
-`ANÁLISE E DESENVOLVIMENTO DE SISTEMAS`
-
-`DESENVOLVIMENTO DE APLICAÇÃO WEB FRONT END`
 
 `PROJETO - EASY TRAIL`
 
@@ -11,18 +6,7 @@ O projeto desenvolvido tem como objetivo criar uma plataforma que possa ajudar o
 · Escolher trilhas mais adequadas a sua condição física e sua disponibilidade de tempo conhecendo previamente as várias opções de trilha
 
 · Obter dicas e recomendações para a realização de um passeio seguro, tranquilo e divertido
-## Integrantes
 
-* Atos dos Santos Pereira
-* Carlos José Leao Freitas
-* Diogo Silva Costa
-* Leonardo Buck Alves
-* Leonardo Melo de Lima
-* Rafael Santana de Oliveira
-
-## Orientador
-
-* Simone Alves Nogueira
 
 ## Instruções de utilização
 
