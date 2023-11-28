@@ -181,29 +181,6 @@ Os testes funcionais a serem realizados no aplicativo são descritos a seguir.
     </table>
 <br>
 
-<table border="0" id="CT05 - ">
-    <tr>
-        <th>Caso de Teste</th>
-        <th>CT-05</th>
-    </tr>
-    <tr>
-        <td><b>Requisitos Associados</b></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td><b>Objetivo do Teste</b></td>
-        <td> </td>
-    </tr>
-    <tr>
-        <td><b>Passos</b></td>
-        <td> </td>
-    </tr>
-    <tr>
-        <td><b>Critério de Êxito</b></td>
-        <td> </td>
-    </tr>
-    </table>
-<br>
 
 
 
