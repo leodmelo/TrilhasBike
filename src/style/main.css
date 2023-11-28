@@ -1,0 +1,394 @@
+/*/////////== HEADER ==/////////*/
+header {
+  background-color: white;
+  font-size: 27px;
+}
+
+
+/*/////////== BODY ==/////////*/
+
+.btn-danger {
+  /*Botões Cadastre-se, Login, Explorar e Enviar do Forms*/
+  background-color: #EB5C0C;
+  border: none;
+  border-radius: 30px;
+  width: 120px;
+  height: 40px;
+  align-items: center;
+}
+
+.col-sm {
+  /*Barra de pesquisa*/
+  font-size: 19px;
+  font-family: "Calibri";
+}
+
+.cards-trilhas {
+  /*Fundo do Título "Trilhas Recomendadas" */
+  padding-top: 2%;
+  padding-bottom: 2%;
+  text-align: center;
+}
+
+.button-Btn {
+  /*Funcionalidade "Veja Mais" */
+  color: #EB5C0C;
+  background-color: white;
+  border: none;
+  text-align: left;
+  padding-left: 0;
+}
+
+.card-text {
+  /*Área dos texto dos cards das Trilhas*/
+  text-size-adjust: auto;
+  font-family: "calibri";
+  text-justify: distribute-all-lines;
+  font-size: 14px;
+}
+
+.card {
+  /*Área total dos cards das Trilhas*/
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.form-group {
+  /*Área do forms "Envie sua Dúvida"*/
+  padding-left: 25%;
+  padding-right: 25%;
+  font-family: "calibri";
+  font-size: 1.3rem;
+  background-color: white;
+}
+
+.Form-titulo {
+  /*´Titulo do forms "Envie sua Dúvida"*/
+  padding-top: 3%;
+  text-align: center;
+}
+
+.form-control {
+  /*Campos inputs do forms "Envie sua Dúvida"*/
+  background-color: white;
+  padding: auto;
+}
+
+.btn-form-wraper {
+  /*Alinhamento do Botão Enviar no forms "Envie sua Dúvida"*/
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-bottom: 2%;
+  border: none;
+}
+
+  /*//////// FOOTER ////////*/
+
+footer {
+background-color:whitesmoke;
+padding-top: 15px;
+padding-bottom:15px;
+}
+
+.container.text {
+margin: 0;
+padding: 0;
+}
+
+#Copyright{
+  /*Configuração do Rodapé*/
+color: gray;
+font-size: 1px;
+text-align: right;
+margin: 0;
+}
+
+#imgFAQ{
+  /*Configuração do Rodapé*/
+text-align: center;
+}
+
+/*///////////// BARRA DE PESQUISA /////////////*/
+.container {
+  /*Container da Barra de Pesquisa*/
+  width: 100%;
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+
+#floatingInput {
+  /*Ajuste do input Cidade da Barra de Pesquisa*/
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  border-radius: 0.4rem;
+  margin: 0;
+  font-size: 17px;
+}
+
+.Cidade-btn {
+  /*Ajuste do input Cidade na Barra de Pesquisa*/
+  border: 1px solid transparent;
+  background-color: white;
+  font-size: 16px;
+}
+
+#floatingSelect {
+  /*Ajuste do input Dificuldade da Barra de Pesquisa*/
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+#date {
+  /*Ajuste do input date da Barra de Pesquisa*/
+  text-align: justify center;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-color: white;
+}
+
+.d-flex {
+  /*Ajuste do grid da Barra de Pesquisa*/
+  background-color: rgb(227, 227, 227);
+}
+
+#pesquisa {
+  /*Ajuste do grid da Barra de Pesquisa*/
+  background-color: rgb(227, 227, 227);
+}
+
+.row {
+  /*Ajuste do grid da Barra de Pesquisa*/
+  margin: 0;
+  padding: 0;
+}
+
+.autocomplete {
+  /*Auto complete das Cidades*/
+  position: relative;
+  padding: 0px 12.75px;
+}
+
+.autocomplete-items {
+  /*Configurações do Auto complete das Cidades*/
+  position: absolute;
+  border: 1px solid #d4d4d4;
+  border-bottom: none;
+  border-top: none;
+  z-index: 99;
+  width: 15rem;
+}
+
+.autocomplete-items div {
+  /*Configurações do Auto complete das Cidades*/
+  cursor: pointer;
+  background-color: whitesmoke;
+}
+
+.autocomplete-items:hover {
+  /*Configurações do Auto complete das Cidades*/
+  cursor: pointer;
+  background-color: blue;
+}
+
+.autocomplete-active {
+  /*Configurações do Auto complete das Cidades*/
+  background-color: DodgerBlue !important;
+  color: #ffffff;
+}
+
+/*///////////// CARROSEL /////////////*/
+.carousel-inner {
+  /*Configuração inicial do Carrosel */
+  position: relative;
+  margin: 0 auto;
+}
+
+.carousel-inner .content {
+  /*Configurações do Carrosel */
+  position: absolute;
+  bottom: 2%;
+  background: rgb(0, 0, 0);
+  background: rgba(0, 0, 0, 0.6);
+  text-align: center;
+  color: #f1f1f1;
+  width: 100%;
+  height: 20%;
+  padding-top: 1%;
+}
+
+span.psw {
+  /*Elementos do Carrosel*/
+  float: right;
+  padding-top: 16px;
+}
+
+/*///////////// MODAL LOGIN /////////////*/
+
+input[type=text],
+input[type=password] {
+  /*Configurações inputs textos*/
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+
+button {
+  /*Botão entrar*/
+  background-color: rgb(95, 3, 95);
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 50%;
+}
+
+button:hover {
+ /*Botão entrar*/
+  opacity: 0.8;
+}
+
+.cancelbtn {
+ /*Botão Cancelar*/
+  width: auto;
+  padding: 10px 18px;
+  background-color: #f44336;
+  display: flex;
+  float: none;
+}
+
+.containerX {
+  /*Container Modal Cadastre-se/Entrar*/
+  width: 100%;
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-top: 3%;
+  padding-bottom: 2%;
+  float: center;
+  margin: auto;
+}
+
+.modal {
+  /*Configurações Modal de Login*/
+  display: none;
+  position: fixed;
+  z-index: 1;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  background-color: rgb(0, 0, 0);
+  background-color: rgba(0, 0, 0, 0.4);
+  padding-top: 60px;
+}
+
+.modal-content {
+  /*Configurações Modal de Login*/
+  background-color: #fefefe;
+  margin: auto;
+  border: 1px solid #888;
+  width: 50%;
+}
+
+.close {
+  /*Botão (x) do Modal de Login*/
+  position: absolute;
+  right: 25px;
+  top: 0;
+  color: #000;
+  font-size: 35px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+  /*Elementos do Botão (x) do Modal de Login*/
+  color: #EB5C0C;
+  cursor: pointer;
+}
+
+.cancelarbtn {
+  /*Botão de Cancelar do modal Cadastre-se e Entrar*/
+  width: auto;
+  padding: 10px 18px;
+  background-color: #f44336;
+  display: flex;
+  float: none;
+}
+
+.breadcrumb {
+ /*Rota das páginas navegadas*/
+  width: 100%;
+  padding-left: 10px;
+  margin: 0;
+}
+
+.breadcrumb a {
+ /*Configuração do texto da Rota das páginas navegadas*/
+  font-size: 0.01rem;
+  font-family: 'calibri';
+  color: red;
+}
+
+/*//////////  FAQ //////////*/
+#FAQ {
+  /*Configuração da Imagem principal*/
+  text-align: center;
+  padding-top: 1%;
+  padding-bottom: 2%;
+  text-justify: auto;
+}
+
+.accordion {
+  /*Configuração do componente*/
+  padding-bottom: 0.7rem;
+  width: auto;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+.accordion-button {
+  /*Configuração do componente*/
+  color: #EB5C0C;
+  background-color:whitesmoke;
+  font-family: "calibri";
+  padding: 0.07rem;
+}
+
+.card-faq {
+  /*Configuração do campo de texto do componente*/
+  font-family: "calibri";
+  color: gray;
+  font-size: 10px;
+}
+
+.textarea {
+margin: 3%;
+padding: 0;
+}
+
+.descricaotrilha{
+margin: 3%;
+text-size-adjust: auto;
+}
+
+/*/////////////// ELEMENTOS DA AÇÃO: "VEJA MAIS" ////////*/
+
+.vejamais {
+background-color: white;
+font-size-adjust: auto;
+color: #EB5C0C;
+font-weight: 500;
+text-align: left;
+padding-left: 0;
+padding-bottom: 0;
+}
+
+.hide{
+  display: none;
+}
