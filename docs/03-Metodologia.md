@@ -5,8 +5,6 @@ Para desenvolvimento do projeto da Easy Trail, a equipe de desenvolvimento usar�
 
 ## Controle de Versão
 
-A ferramenta de controle de versão adotada no projeto foi [Github](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t5-easy-trail) também utilizado para hospedagem do repositório.
-
 O projeto segue a seguinte convenção para o nome de branches:
 
 * `main`: versão já testada do software
@@ -14,22 +12,6 @@ O projeto segue a seguinte convenção para o nome de branches:
 * `testing`: versão em testes do software
 * `dev`: versão de desenvolvimento do software
 
-## Gerenciamento de Projeto
-
-Para a execução do projeto da Easy Trail, será utilizada a metodologia Scrum, metodologia extremamente difundida e reconhecida em todo o mundo para desenvolvimento de projetos agéis de TI.
-
-### Divisão de Papéis
-
-A equipe de desenvolvimento do projeto da Easy Trail está dividida assim:
-
-* **Scrum Master**: Leonardo Melo de Lima
-* **Product Owner**: Diogo Silva Costa
-* **Equipe de Desenvolvimento**:
-  * Carlos José Leao Freitas
-  * Rafael Santana de Oliveira
-* **Equipe de Design**:
-  * Atos dos Santos Pereira
-  * Leonardo Buck Alves
 
 Para organização e distribuição das tarefas do projeto, a equipe está utilizando o Trello, onde as atividades a serem desenvolvidas, estão estruturada em listas de status, conforme descrito abaixo:
 
