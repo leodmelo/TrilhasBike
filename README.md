@@ -23,15 +23,3 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 <li><a href="docs/06-Template padrão do Site.md"> Template padrão do Site</a></li>
 <li><a href="docs/08-Plano de Testes de Software.md"> Plano de Testes de Software</a></li>
 </ol>
-
-# Hospedagem
-
-* Insira o endereço eletrônico público de acesso ao conteúdo publicado. 
-
-# Armazenamento do Código-Fonte
-
-* <a href="src/README.md">Código Fonte</a>
-
-# Armazenamento da Apresentação
-
-* <a href="presentation/README.md">Apresentação da solução</a>
